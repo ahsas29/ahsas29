@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsas29&label=Profile%20views&color=0e75b6&style=flat" alt="ahsas29" /> </p>
 
-<p align="left"> <a href="https://twitter.com/srivastavaahsas" target="blank"><img src="https://img.shields.io/twitter/follow/srivastavaahsas?logo=twitter&style=for-the-badge" alt="srivastavaahsas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SrivastavaAhsas" target="blank"><img src="https://img.shields.io/twitter/follow/SrivastavaAhsas?logo=twitter&style=for-the-badge" alt="SrivastavaAhsas" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
