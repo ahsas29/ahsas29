@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8gwa3c"  />
 
 ###
 
@@ -44,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahsas29/ahsas29/output/snake.svg" alt="Snake animation" />
 
 ###
