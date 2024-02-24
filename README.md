@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahsas29/ahsas29/output/snake.svg" alt="Snake animation" />
-
 ###
