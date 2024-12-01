@@ -1,5 +1,4 @@
-# ✨Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahsas
-
+# ✨Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20"/> My name is Ahsas
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
