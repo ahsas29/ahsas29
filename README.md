@@ -36,8 +36,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="50%">
-
+</td</tr></table>
 
 <br/>  
 
