@@ -4,7 +4,6 @@
 
 <table>
   <tr>
-    ###Frontend
     <td valign="top" width="50%">
       <h3 align="center">Frontend</h3>
       <div align="center">  
